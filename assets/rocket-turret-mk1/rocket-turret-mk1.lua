@@ -10,7 +10,9 @@ l_rocket_turret_mk1.flags =
 	"player-creation",				-- Can draw enemies
 	"placeable-off-grid", 
 	"not-on-map",					-- Do not show on minimap
-
+	"not-repairable", 
+	"not-deconstructable", 
+	"not-blueprintable"
 }
 l_rocket_turret_mk1.minable = nil
 -- HP 
@@ -112,9 +114,6 @@ l_rocket_turret_mk1.preparing_animation =
 		--gun_turret_extension_shadow{}
 	}
 }
--- Collision
-l_rocket_turret_mk1.collision_box = {{-0.3, -0.3 }, {0.3, 0.3}} -- made turret smaller
-l_rocket_turret_mk1.selection_box = {{-0.4, -0.4 }, {0.4, 0.4}} -- kept selection box slightly larger
 l_rocket_turret_mk1.prepared_animation = rocket_turret_attack{frame_count=1}
 l_rocket_turret_mk1.attacking_animation = rocket_turret_attack{}
 l_rocket_turret_mk1.folding_animation =
