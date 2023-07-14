@@ -50,7 +50,7 @@ l_rocket_platform_mk1.icon = "__Armored-train__/assets/rocket-platform-mk1/rocke
 l_rocket_platform_mk1.icon_size = 64
 l_rocket_platform_mk1.icon_mipmaps = 4
 -- Inventory
-l_rocket_platform_mk1.inventory_size = 0					-- Do not need inventory
+l_rocket_platform_mk1.inventory_size = 10					
 l_rocket_platform_mk1.minable = 
 {
 	mining_time = 0.5, 
@@ -86,6 +86,7 @@ l_rocket_platform_mk1.pictures =
 }
 l_rocket_platform_mk1.horizontal_doors = nil
 l_rocket_platform_mk1.vertical_doors = nil
+
 -- Minimap representation
 l_rocket_platform_mk1.minimap_representation =
 {

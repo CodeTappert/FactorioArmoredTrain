@@ -1,3 +1,5 @@
+## Fork of  https://mods.factorio.com/mod/Armored-train
+
 ### What's inside
 
 * Armored locomotive (Crush tough biters)
@@ -7,4 +9,6 @@
 * Flamethrower wagon MK1 (Shoot at long range, fire damage)
 * Radar platform (Reveal train on map)
 
-### Download link: https://mods.factorio.com/mod/Armored-train
+### Changes to the original
+- Armoured Waggons can now get ammo via inserters and have a bigger inventory
+

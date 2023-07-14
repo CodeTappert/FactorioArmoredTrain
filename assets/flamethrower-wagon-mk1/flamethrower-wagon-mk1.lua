@@ -50,7 +50,7 @@ l_flamethrower_platform_mk1.icon = "__Armored-train__/assets/flamethrower-wagon-
 l_flamethrower_platform_mk1.icon_size = 64
 l_flamethrower_platform_mk1.icon_mipmaps = 4
 -- Inventory
-l_flamethrower_platform_mk1.inventory_size = 0					-- Do not need inventory
+l_flamethrower_platform_mk1.inventory_size = 10
 l_flamethrower_platform_mk1.minable = 
 {
 	mining_time = 0.5, 
