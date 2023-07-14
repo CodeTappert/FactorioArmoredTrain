@@ -1,4 +1,8 @@
-## Fork of  https://mods.factorio.com/mod/Armored-train
+# Download at
+- https://mods.factorio.com/mod/Armored-train-With-Inserters
+
+### Fork of
+- https://mods.factorio.com/mod/Armored-train
 
 ### What's inside
 
