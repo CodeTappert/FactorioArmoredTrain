@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Info:
+	- This is the point at which i forked the project
+	- The waggons now have an inventory. They will give the ammo to the turret
+
+---------------------------------------------------------------------------------------------------
 Version: 0.4.6
 Info:
 	- Thumbnail fix

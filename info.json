@@ -1,8 +1,8 @@
 {
-  "name": "Armored-train",
-  "version": "0.4.6",
+  "name": "Armored-train-With-Inserters",
+  "version": "1.0.0",
   "factorio_version": "1.1",
-  "title": "Armored Train (Turret Wagons)",
-  "author": "Pandamiami80s",
-  "description": "Turret Wagons and Armored Train (T.W.A.T.)"
+  "title": "Armored Train Forked to work with inserters",
+  "author": "DerTapp",
+  "description": "Turret Wagons and Armored Train  (T.W.A.T.) forked so it now works with inserters. Fork of https://mods.factorio.com/mod/Armored-train"
 }
